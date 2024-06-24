@@ -3,11 +3,17 @@
 ## Overview
 The DocEmbed AI Search Engine is a powerful tool that allows you to search and retrieve relevant documents from a large corpus using natural language processing and document embedding techniques. With this application, you can easily find the information you need from your PDF files, without the need to manually sift through large amounts of text.
 
+![image](https://github.com/rituraj314/DocEmbed-AI-search-engine/assets/96370518/8f52228d-e903-4cea-81f4-9a62a0d03d83)
+
 ## Features
 - **Semantic Search**: The search engine uses advanced natural language processing algorithms to understand the context and meaning of your queries, allowing you to find relevant documents even if the specific keywords are not present.
 - **Document Embedding**: The application leverages document embedding techniques to represent the content of your PDF files in a high-dimensional vector space, enabling efficient similarity-based searches.
 - **Contextual Answers**: The search engine not only retrieves relevant documents but also provides detailed answers to your questions, drawing from the content of the documents.
 - **Streamlit Interface**: The application is built using the Streamlit framework, providing a user-friendly and interactive web-based interface for easy access and usage.
+
+## Methodology
+![image](https://github.com/rituraj314/DocEmbed-AI-search-engine/assets/96370518/274a0906-0976-4d56-a702-5e820c5adfee)
+
 
 
 ## Getting Started
